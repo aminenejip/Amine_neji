@@ -17,8 +17,8 @@ Backend: Spring Boot · Laravel · PHP · MySQL
 Networking:Networking fundamentals · TCP/IP basics · IP addressing
 
 ## 📌 Featured projects
-- [Orchom-Suivi-du-jeu-Rami](https://github.com/aminenejip/Orchom-Suivi-du-jeu-Rami.git) : a mobile app to count the scores of jeu de carte  
-- [backpain-alert-widget](https://github.com/aminenejip/backpain-alert-widget.git) awidegt to laret you to move 
+- [Orchom-Suivi-du-jeu-Rami](https://github.com/aminenejip/Orchom-Suivi-du-jeu-Rami.git) : A mobile application for tracking and calculating scores in the Rami card game. 
+- [backpain-alert-widget](https://github.com/aminenejip/backpain-alert-widget.git)A widget that reminds you to move regularly and avoid sitting for too long .
 
 
 ## 🌱 Currently learning
