@@ -1,6 +1,10 @@
-# Hi, I'm Amine 👋
+## Hi, I'm Amine 👋
 
-🎓 **Computer Science Graduate | Master's Student in Networking & Cloud Computing**
+<h2 align="left">
+  Computer Science Graduate | Master's Student in Networking & Cloud Computing
+  <br><br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding animation" width="400">
+</h2>
 
 I'm a Computer Science graduate from the Faculty of Sciences of Sfax, Tunisia, currently pursuing a Master's degree in **Networking and Cloud Computing**.
 
