@@ -62,11 +62,6 @@ A lightweight widget that reminds users to move regularly and take breaks from p
 
 **Focus:** Productivity · Reminders · Health-Conscious Software Design
 
-### 3. [Personal Portfolio](https://portfolio-phi-coral-99.vercel.app)
-My personal portfolio showcasing my background, skills, and software development projects.
-
-**Focus:** React · Frontend Development · Responsive Design
-
 ---
 
 ## 🌱 Currently Learning
